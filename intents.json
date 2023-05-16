@@ -1,0 +1,13 @@
+{
+    "intents": [
+        {"tag": "greetings",
+        "patterns":["hello", "hey", "hi", "good day", "Greetings","what's up","how is it going"],
+        "responses":["Hey,How can I help you!"]
+    },
+    {
+        "tag":"links-home",
+        "patterns": ["get me link to home","provide the link to the home page","include a link to the home page","provide a link to the home page","provide the home page link"],
+        "responses":["https://fact.co.in/home"]
+    }
+    ]
+}
