@@ -2183,12 +2183,12 @@ Tender for&nbsp;Painting of plant structures, pipe lines, vessels, tanks, equipm
             var StringFystring = JSON.stringify({ culture: cult });
             $.ajax(
                 {
-                    type: ""POST"",
+                    tag: ""POST"",
                     async: false,
-                    contentType: 'application/json; charset=utf-8',
+                    contenttag: 'application/json; charset=utf-8',
                     data: StringFystring,
                     url: ""/home/setculture"",
-                    dataType: 'json',
+                    datatag: 'json',
                     success: function (data) {
                         if (data.IsSuccess) {
                           // window.location.reload(true);

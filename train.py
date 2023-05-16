@@ -20,7 +20,7 @@ classes = []
 documents = []
 ignore_letters = ['?', '!', '.', ',', '\n', '\t']
 
-for intent in intents['intents']:
+for intent in intents:
     for pattern in intent['patterns']:
         word_list = nltk.word_tokenize(pattern)
         words.extend(word_list)
