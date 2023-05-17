@@ -1,13 +1,33 @@
 {
     "intents": [
-        {"tag": "greetings",
-        "patterns":["hello", "hey", "hi", "good day", "Greetings","what's up","how is it going"],
-        "responses":["Hey,How can I help you!"]
-    },
-    {
-        "tag":"links-home",
-        "patterns": ["get me link to home","provide the link to the home page","include a link to the home page","provide a link to the home page","provide the home page link"],
-        "responses":["https://fact.co.in/home"]
-    }
-    ]
-}
+      {
+        "tag": "greeting",
+        "patterns": [
+          "Hi",
+          "Hey",
+          "How are you",
+          "Is anyone there?",
+          "Hello",
+          "Good day"
+        ],
+        "responses": [
+          "Hey :-)",
+          "Hello, thanks for visiting",
+          "Hi there, what can I do for you?",
+          "Hi there, how can I help?"
+        ]
+      },
+      {
+        "tag": "goodbye",
+        "patterns": ["Bye", "See you later", "Goodbye"],
+        "responses": [
+          "See you later, thanks for visiting",
+          "Have a nice day",
+          "Bye! Come back again soon."
+        ]
+      },
+      {
+        "tag": "thanks",
+        "patterns": ["Thanks", "Thank you", "That's helpful", "Thank's a lot!"],
+        "responses": ["Happy to help!", "Any time!", "My pleasure"]
+      }]}
