@@ -14,4 +14,81 @@
         "tag": "thanks",
         "patterns": ["Thanks", "Thank you", "That's helpful", "Thank's a lot!"],
         "responses": ["Happy to help!", "Any time!", "My pleasure"]
-      }]}
+      },
+      {
+        "tag": "qustion 1",
+        "patterns": ["Who is the major shareholder of FACT?", "Who holds the majority shares in The Fertilisers and Chemicals Travancore Limited (FACT)?", "Which entity or individual owns the largest stake in FACT?", "Who is the primary shareholder of The Fertilisers and Chemicals Travancore Limited?"],
+        "responses": ["The Government of India is the major shareholder of FACT since 1962."]
+      },
+      {
+        "tag": "qustion 2",
+        "patterns": ["Who has the administrative authority over FACT?", "Under whose jurisdiction does The Fertilisers and Chemicals Travancore Limited (FACT) fall in terms of administrative control?", "Which organization or authority exercises administrative control over The Fertilisers and Chemicals Travancore Limited (FACT)?", "What is the administrative control of FACT?"],
+        "responses": ["FACT is under the administrative control of the Department of Fertilizers, Ministry of Chemicals & Fertilizers, Government of India."]
+      },
+      {
+        "tag": "qustion 3",
+        "patterns": ["What are the main divisions and plants of FACT?", "What are the primary divisions and manufacturing plants of FACT?", "Which divisions and production facilities are associated with FACT as its main units?", "Can you list the major divisions and plants of The Fertilisers and Chemicals Travancore Limited (FACT)?"],
+        "responses": ["FACT has multiple divisions and plants including :- Udyogamandal Complex (parent division), Fertiliser Plants, Petrochemical Plants, Cochin Division, FEDO (Engineering Consultancy Division of FACT), FEW (Fabrication Division of FACT)"]
+      },
+      {
+        "tag": "qustion 4",
+        "patterns": ["What is the authorized share capital of FACT?", "Can you provide information on the authorized share capital of FACT?", "What is the official amount of share capital that FACT is authorized to have?", "How much share capital has been authorized for The Fertilisers and Chemicals Travancore Limited (FACT)?"],
+        "responses": ["The authorized share capital of FACT is ₹100 crore equity shares of face value of ₹10/- each (₹1000 crore)"]
+      },
+      {
+        "tag": "qustion 5",
+        "patterns": ["What are some of the fertilizers produced by FACT?", "Can you list some of the fertilizers manufactured by FACT?", "What are the types of fertilizers produced by FACT?", "Which fertilizers does The Fertilisers and Chemicals Travancore Limited (FACT) produce?"],
+        "responses": ["FACT produces various fertilizers, including complex fertilizers, straight fertilizers, organic fertilizers, and bio-fertilizers."]
+      },
+      {
+        "tag": "qustion 6",
+        "patterns": ["Can you provide details of some specific fertilizers produced by FACT?", "Could you provide information about specific fertilizers manufactured by The Fertilisers and Chemicals Travancore Limited (FACT)?", "Can you give me details about certain fertilizers produced by FACT?", "Could you share details about particular fertilizers manufactured by FACT?"],
+        "responses": ["Yes, here are a few examples: FACTAMFOS 20:20:0:13: A complex fertilizer containing 20% nitrogen (N), 20% phosphorus pentoxide (P2O5), and 13% sulfur (S),Zincated FACTAMFOS: Similar to FACTAMFOS but with the addition of essential micro-nutrient zinc (0.5%), Ammonium Sulphate: A straight fertilizer with 20.6% nitrogen (in ammoniacal form) and 24% sulfur."]
+      },
+      {
+        "tag": "qustion 7",
+        "patterns": ["How can investors get in touch with FACT?", "How can investors establish contact with FACT?", "What is the preferred method for investors to get in touch with FACT?", "Could you provide information on the ways investors can reach out to FACT?"],
+        "responses": ["Investors can find general information and contact details for FACT's registrar and transfer agent on their website"]
+      },
+      {
+        "tag": "qustion 8",
+        "patterns": ["What is the annual production capacity of FACT's Udyogamandal Complex?", "What is the yearly production capacity of FACT's Udyogamandal Complex?", "How much can FACT's Udyogamandal Complex produce on an annual basis?", "What is the capacity for annual production at FACT's Udyogamandal Complex?"],
+        "responses": ["The annual production capacity of FACT's Udyogamandal Complex is approximately 9.12 lakh metric tonnes of nitrogenous fertilizers, 2.2 lakh metric tonnes of phosphatic fertilizers, and 64,700 metric tonnes of caprolactam."]
+      },
+      {
+        "tag": "qustion 9",
+        "patterns": ["What is caprolactam, and what is its significance for FACT?", "What is the definition of caprolactam, and how does it relate to FACT?", "Could you provide information about caprolactam and its importance in the context of FACT?", "What is the significance of caprolactam for The Fertilisers and Chemicals Travancore Limited (FACT), and how is it utilized?"],
+        "responses": ["Caprolactam is an organic compound used in the production of nylon fibers and resins. It is a significant product for FACT as FACT's Udyogamandal Complex is the largest caprolactam manufacturer in India and the second-largest in Asia."]
+      },
+      {
+        "tag": "qustion 10",
+        "patterns": ["How does FACT contribute to environmental sustainability?", "How does FACT demonstrate its commitment to environmental sustainability?", "In what ways does FACT contribute to the preservation of the environment and promote sustainable practices?", "Could you enlighten me on the initiatives undertaken by FACT to foster environmental sustainability?"],
+        "responses": ["Energy conservation and optimization programs, Water management and recycling systems, Waste management and utilization of by-products, Promotion of organic farming and bio-fertilizer"]
+      },
+      {
+        "tag": "qustion 11",
+        "patterns": ["How can FACT Organic Plus enhance crop production?", "What are the ways in which FACT Organic Plus can improve crop production?", "Can you explain the mechanisms by which FACT Organic Plus boosts crop yields?", "What are the specific methods through which FACT Organic Plus can enhance crop productivity?"],
+        "responses": ["FACT Organic Plus, a plant and animal-based organic manure, increases soil organic matter content and moisture-holding capacity. It also reduces soil bulk density, thereby increasing the efficiency of crop production."]
+      },
+      {
+        "tag":"qustion 12",
+        "patterns":["What are the benefits of using FACT ORGANIC?","What advantages does FACT ORGANIC offer?","What are the positive outcomes of incorporating FACT ORGANIC into agricultural practices?","What are the beneficial effects of utilizing FACT ORGANIC?"],
+        "responses":["FACT ORGANIC, which is city compost produced in several states, improves the physical characteristics of soil such as structure, texture, and water-holding capacity. It also supplies organic carbon, small quantities of NPK, and sufficient quantities of micronutrients."]
+      },
+      {
+        "tag":"qustion 13",
+        "patterns":["What are the by-products produced by FACT in its operations?","What are some of the secondary products that result from FACT's operations?","What are some of the additional outputs that are created as by-products by FACT while carrying out its operations?","What are the secondary outputs generated by FACT during its operations?"],
+        "responses":["The by-products produced by FACT include Anhydrous Ammonia, Nitric Acid & Soda Ash, CO2, Gypsum, Sulphuric Acid, Coloured-Ammonium Sulphate, and Cyclohexane."]
+      },
+      {
+        "tag":"qustion 14",
+        "patterns":["When was FACT incorporated, and where is its main fertilizer plant located?","When was FACT incorporated?","When was the establishment of FACT and where is its primary fertilizer plant situated?","What is the timeline of FACT's incorporation, and which specific geographical location serves as the site for its main fertilizer plant?"],
+        "responses":["FACT was incorporated in the year 1943, and its main fertilizer plant is located in Udyogamandal, Kochi, Kerala."]
+      },
+      {
+        "tag":"qustion 15",
+        "patterns":["What is FACT's approach to corporate governance and ethical practices?","What measures does FACT take to uphold corporate governance principles and foster ethical behavior within the organization?","What is the stance of FACT when it comes to corporate governance and maintaining ethical standards?","Can you provide information on FACT's corporate governance framework and adherence to ethical practices?"],
+        "responses":["FACT maintains a strong commitment to corporate governance and ethical practices. It follows transparency, accountability, and fairness in its operations, and complies with all applicable laws and regulations. The company also has a code of conduct and ethics policy in place."]
+      }
+    ]
+}
