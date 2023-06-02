@@ -247,8 +247,8 @@
 },
 {
 	"tag":"question 47",
-	"patterns":["What is the significance of organic manure marketed by FACT under the brand name "FACT ORGANIC"?","What are the key benefits or advantages of using organic manure sold by FACT under the brand name "FACT ORGANIC"?","How does the organic manure offered by FACT under the brand name "FACT ORGANIC" contribute to sustainable agriculture?","In what ways does the organic manure marketed by FACT as "FACT ORGANIC" make a positive impact on soil health and crop productivity?"],
-	"responses":["The organic manure marketed as "FACT ORGANIC" improves soil characteristics, supplies organic carbon, NPK, and micro-nutrients to crops."]
+	"patterns":["What is the significance of organic manure marketed by FACT under the brand name FACT ORGANIC?","What are the key benefits or advantages of using organic manure sold by FACT under the brand name FACT ORGANIC?","How does the organic manure offered by FACT under the brand name FACT ORGANIC contribute to sustainable agriculture?","In what ways does the organic manure marketed by FACT as FACT ORGANIC make a positive impact on soil health and crop productivity?"],
+	"responses":["The organic manure marketed as FACT ORGANIC improves soil characteristics, supplies organic carbon, NPK, and micro-nutrients to crops."]
 },
 {
 	"tag":"question 48",
@@ -258,11 +258,11 @@
 {
 	"tag":"question 49",
 	"patterns":["What are Bio-fertilisers, and under what trade name does FACT market them?","Can you explain the concept of Bio-fertilisers and identify the trade name under which FACT sells them?","What is the definition of Bio-fertilisers, and what is the specific trade name used by FACT for marketing them?","Could you provide information on Bio-fertilisers and the trade name adopted by FACT for their commercialization?"],
-	"responses":["Bio-fertilisers are fertilisers containing microorganisms that increase nutrient availability to crops. FACT markets them under the trade name "BIOFACT."]
+	"responses":["Bio-fertilisers are fertilisers containing microorganisms that increase nutrient availability to crops. FACT markets them under the trade name BIOFACT."]
 },
 {
 	"tag":"question 50",
-	"patterns":["How can the efficacy of BIOFACT be enhanced?","What measures can be taken to increase the effectiveness of BIOFACT?","In what ways can the efficiency of BIOFACT be improved?","What strategies or methods can be employed to enhance the efficacy of BIOFACT?"],
+	"patterns":["How can the efficacy of BIOFACT be enhanced?","What measures can be taken to increase the effectiveness of BIOFACT?","In what ways can the efficiency of BIOFACT be improved?","What strategies or methods can be employed to enhance the efficacy of BIOFACT?","how the efficacy of biofact can be enhanced?"],
 	"responses":["The efficacy of BIOFACT can be substantially enhanced by applying it along with FACT ORGANIC."]
 },
 {
