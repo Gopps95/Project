@@ -89,6 +89,286 @@
         "tag":"question 15",
         "patterns":["What is FACT's approach to corporate governance and ethical practices?","What measures does FACT take to uphold corporate governance principles and foster ethical behavior within the organization?","What is the stance of FACT when it comes to corporate governance and maintaining ethical standards?","Can you provide information on FACT's corporate governance framework and adherence to ethical practices?"],
         "responses":["FACT maintains a strong commitment to corporate governance and ethical practices. It follows transparency, accountability, and fairness in its operations, and complies with all applicable laws and regulations. The company also has a code of conduct and ethics policy in place."]
-      }
+      },
+      {
+        "tag": "question 16",
+        "patterns": ["What is the full form of FACT?","What does FACT stand for?","Can you expand FACT?","What is the complete meaning of the acronym FACT?"],
+        "responses": ["The full form of FACT is The Fertilisers And Chemicals Travancore Limited."]
+},
+{
+	"tag":"question 17",
+	"patterns":["What is the date of incorporation for FACT?","When was FACT established as a company?","Can you provide the incorporation date of FACT?","At what time did FACT become a legally incorporated entity?"],
+	"responses":["FACT was incorporated in the year 1943."]
+},
+{
+	"tag":"question 18",
+	"patterns":["Who initially promoted FACT in the private sector?","Who were the private sector promoters of FACT during its initial establishment?","Can you provide information about the individuals or entities that played a role in promoting FACT in the private sector?","In the private sector, who took the initiative to promote FACT when it was first established?"],
+	"responses":["FACT was initially promoted by M/s.Seshasayee Brothers."]
+},
+{
+	"tag":"question 19",
+	"patterns":["Where is the main production facility of FACT located?","What is the location of the primary production facility of FACT?","Can you tell me where FACT's main production facility is situated?","Where is the main manufacturing site of FACT situated?"],
+	"responses":["The main production facility of FACT is located in Udyogamandal, Kochi, Kerala, India."]
+},
+{
+	"tag":"question 20",
+	"patterns":["When did FACT become a public sector company?","At what point in time did FACT transition into a public sector company?","When was the conversion of FACT from a private sector entity to a public sector company completed?","Can you provide the specific date or year when FACT transformed into a public sector company?"],
+	"responses":["FACT became a public sector company in 1960."]
+},
+{
+	"tag":"question 21",
+	"patterns":["When did the Government of India become the major shareholder of FACT?","When did the Government of India acquire a majority shareholding in FACT?","At what time did the Government of India become the major stakeholder of FACT?","Can you provide the date or year when the Government of India took control as the primary shareholder of FACT?"],
+	"responses":["The Government of India became the major shareholder of FACT in 1962."]
+},
+{
+	"tag":"question 22",
+	"patterns":["What are the different types of fertilizers produced by FACT?","Which varieties of fertilizers does FACT manufacture?","What are the various types of fertilizers produced by FACT?","Can you list the different categories of fertilizers that FACT manufactures?"],
+	"responses":["FACT produces complex fertilizers, straight fertilizers, organic fertilizers, bio-fertilizers, and imported fertilizers."]
+},
+{
+	"tag":"question 23",
+	"patterns":["What are the by-products produced by FACT?","Which secondary products are generated as by-products in the manufacturing process at FACT?","What are the additional outputs or secondary materials that are produced as by-products by FACT?","Can you list the by-products that result from the production activities of FACT?"],
+	"responses":["The by-products produced by FACT include anhydrous ammonia, nitric acid & soda ash, CO2, gypsum, sulphuric acid, coloured ammonium sulphate, and cyclohexane."]
+},
+{
+	"tag":"question 24",
+	"patterns":["What are the services offered by FACT for farmers?","What services does FACT provide to farmers?","In what ways does FACT support farmers with its services?","Can you explain the services that FACT offers to farmers?"],
+	"responses":["FACT offers services such as fertilizers for farmers."]
+},
+{
+	"tag":"question 25",
+	"patterns":["What are the services offered by FACT for investors?","What services does FACT provide to cater to the needs of investors?","What are the offerings and assistance provided by FACT for investors?","In what ways does FACT support and serve the requirements of investors?"],
+	"responses":["FACT provides general information and investor contacts for investors."]
+},
+{
+	"tag":"question 26",
+	"patterns":["What is the corporate social responsibility (CSR) policy of FACT?","What is the official CSR policy implemented by FACT?","Can you explain the corporate social responsibility (CSR) guidelines followed by FACT?","How does FACT approach its corporate social responsibility (CSR) initiatives and what is their policy in this regard?"],
+	"responses":["The CSR policy of FACT focuses on business responsibility and sustainable development."]
+},
+{
+	"tag":"question 27",
+	"patterns":["What are the different units and ventures of FACT?","Can you list the various units and ventures associated with FACT?","What are the different divisions and business ventures operated by FACT?","Could you provide an overview of the units and ventures established under FACT?"],
+	"responses":["The different units and ventures of FACT include Udyogamandal Complex, Fertiliser Plants, Petrochemical Plants, Cochin Division, FEDO, FEW, and Joint Venture - FRBL."]
+},
+{
+	"tag":"question 28",
+	"patterns":["Which department of FACT is responsible for IT?","Which division or department within FACT has the responsibility for IT operations?","In which specific department of FACT is the responsibility for IT services held?","Can you identify the department within FACT that oversees the management of IT functions?"],
+	"responses":["The IT department of FACT is responsible for information technology."]
+},
+{
+	"tag":"question 29",
+	"patterns":["What are the different committees of the Board of Directors in FACT?","Could you please provide me with information on the various committees that constitute the Board of Directors in FACT?","What are the different committees established within the Board of Directors of FACT?","Can you list the names of the committees that make up the Board of Directors in FACT?"],
+	"responses":["The text does not provide specific details about the different committees of the Board of Directors in FACT."]
+},
+{
+	"tag":"question 30",
+	"patterns":["How many Annual General Meetings (AGMs) has FACT conducted?","What is the total number of Annual General Meetings (AGMs) conducted by FACT?","Can you provide the count of Annual General Meetings (AGMs) held by FACT?","How many times has FACT organized its Annual General Meeting (AGM) since its inception?"],
+	"responses":["FACT has conducted 76th, 77th, and 78th Annual General Meetings."]
+},
+{
+	"tag":"question 31",
+	"patterns":["What is the purpose of the Vigilance Department in FACT?","What role does the Vigilance Department serve in FACT?","What is the objective of the Vigilance Department within FACT?","Can you explain the function or mandate of the Vigilance Department in FACT?"],
+	"responses":["The Vigilance Department in FACT is responsible for ensuring vigilance and preventing fraud."]
+},
+{
+	"tag":"question 32",
+	"patterns":["Who has administrative control over FACT?","Who is responsible for the administrative control of FACT?","Which authority has the administrative control over FACT?","Who holds the administrative authority over FACT?"],
+	"responses":["FACT is under the administrative control of the Department of Fertilizers, Ministry of Chemicals & Fertilizers, Government of India."]
+},
+{
+	"tag":"question 33",
+	"patterns":["When did FACT undergo expansion and technology upgrades at the Udyogamandal division?","When was the expansion and technology upgrade carried out at the Udyogamandal division of FACT?","Can you provide information about the expansion and technology upgrades at FACT's Udyogamandal division and the corresponding timeline?","At what time did FACT undergo expansion and technology upgrades at its Udyogamandal division?"],
+	"responses":["The Udyogamandal division of FACT underwent expansion and technology upgrades until the year 1972."]
+},
+{
+	"tag":"question 34",
+	"patterns":["What are the divisions and units established by FACT?","Can you provide a list of the divisions and units that FACT has established?","Which divisions and units have been set up by FACT?","Could you share the names of the divisions and units that have been established by FACT?"],
+	"responses":["FACT established divisions and units including Udyogamandal Complex, Fertiliser Plants, Petrochemical Plants, Cochin Division, FEDO, FEW, and Joint Venture - FRBL."]
+},
+{
+	"tag":"question 35",
+	"patterns":["When was the Ammonia-Urea Complex at Cochin Division commissioned?","What is the date or year of the commissioning of the Ammonia-Urea Complex at Cochin Division?","When was the Cochin Division's Ammonia-Urea Complex officially put into operation?","Can you provide the timeline or specific period when the commissioning of the Ammonia-Urea Complex at Cochin Division took place?"],
+	"responses":["The Ammonia-Urea Complex at Cochin Division was commissioned in 1973."]
+},
+{
+	"tag":"question 36",
+	"patterns":["What is the purpose of the Engineering & Consultancy wing FEDO?","What is the objective of establishing the Engineering & Consultancy wing FEDO?","Can you explain the primary function of the Engineering & Consultancy wing FEDO?","What is the role and purpose of the Engineering & Consultancy wing FEDO?"],
+	"responses":["FEDO, which stands for FACT Engineering & Design Organisation, focuses on developing indigenous capabilities for designing and constructing Chemical and Fertiliser Plants."]
+},
+{
+	"tag":"question 37",
+	"patterns":["What was the objective behind establishing the Fabrication Division FEW?","What was the purpose or aim behind the establishment of the Fabrication Division FEW?","Why was the Fabrication Division FEW established?","What objective was sought to be achieved by creating the Fabrication Division FEW?"],
+	"responses":["FEW, which stands for FACT Engineering Works, was established to cater to the fabrication needs of FACT."]
+},
+{
+	"tag":"question 38",
+	"patterns":["When did FACT diversify into the petrochemical industry?","When did FACT venture into the petrochemical industry for diversification?","At what time did FACT expand its operations into the petrochemical sector?","Can you provide the specific date or year when FACT diversified its business into the petrochemical industry?"],
+	"responses":["FACT diversified into the petrochemical industry during 1990-91 with the commissioning of the Petrochemical Division at Udyogamandal for the production of Caprolactam."]
+},
+{
+	"tag":"question 39",
+	"patterns":["How much was the cost of setting up the new Ammonia Plant at Udyogamandal?","What was the total expenditure incurred for establishing the new Ammonia Plant at Udyogamandal?","Can you provide the cost estimate for the construction of the new Ammonia Plant at Udyogamandal?","How much money was invested in setting up the recently built Ammonia Plant at Udyogamandal?"],
+	"responses":["The new Ammonia Plant at Udyogamandal was set up at a cost of Rs. 638 crore."]
+},
+{
+	"tag":"question 40",
+	"patterns":["Who played a significant role in the establishment of FACT?","Who were the key individuals involved in the establishment of FACT?","Can you identify the notable figures who played a significant role in setting up FACT?","Who were the instrumental personalities in the establishment of FACT?"],
+	"responses":["Sir C.P Ramaswamy Iyer, the then Diwan of Travancore, played a significant role in clearing obstacles and paving the way for setting up FACT in Udyogamandal."]
+},
+{
+	"tag":"question 41",
+	"patterns":["Who was the longest-serving Managing Director of FACT?","Who held the position of Managing Director at FACT for the longest duration?","Can you tell me the name of the individual who served as the Managing Director of FACT for the greatest length of time?","Who holds the record for being the Managing Director of FACT for the longest period?"],
+	"responses":["Shri M.K.K Nair served as the longest-serving Managing Director of FACT from 1960 to 1971."]
+},
+{
+	"tag":"question 42",
+	"patterns":["What major plants were established during Shri M.K.K Nair's tenure as MD?","During the tenure of Shri M.K.K Nair as MD, which significant plants were established?","Can you name the major plants that were set up under the leadership of Shri M.K.K Nair as MD?","What were the key plants that were established while Shri M.K.K Nair served as MD?"],
+	"responses":["During Shri M.K.K Nair's tenure, various plants were set up to enhance production, including the establishment of Engineering consultancy division (FEDO) and fabrication unit (FEW)."]
+},
+{
+	"tag":"question 43",
+	"patterns":["What is the current status of FACT in the fertiliser industry?","How would you describe the present standing of FACT in the fertiliser industry?","Can you provide an update on the current position of FACT within the fertiliser industry?","What is the current status or state of FACT in relation to other players in the fertiliser industry?"],
+	"responses":["FACT stands as one of the biggest fertiliser enterprises in the country and a prominent example of the success of the public sector."]
+},
+{
+	"tag":"question 44",
+	"patterns":["What is the nutrient composition of FACTAMFOS 20:20:0:13?","Could you please provide the nutrient composition of FACTAMFOS 20:20:0:13?","What are the nutrient elements present in FACTAMFOS 20:20:0:13 and their respective proportions?","Can you share the breakdown of nutrients in FACTAMFOS 20:20:0:13?"],
+	"responses":["FACTAMFOS 20:20:0:13 is a chemical blend containing 20% N (nitrogen), 20% P2O5 (phosphorus pentoxide), and 13% Sulphur."]
+},
+{
+	"tag":"question 45",
+	"patterns":["Which crops and soils is ZINCATED FACTAMFOS suitable for?","Which crops and soil types are compatible with ZINCATED FACTAMFOS?","In what agricultural scenarios can ZINCATED FACTAMFOS be effectively used for crop and soil management?","What are the suitable crop varieties and soil conditions for the application of ZINCATED FACTAMFOS?"],
+	"responses":["ZINCATED FACTAMFOS is mainly suitable for all crops and soils with Zinc deficiency."]
+},
+{
+	"tag":"question 46",
+	"patterns":["What nutrient composition does FACT Ammonium Sulphate contain?","What are the nutrient components present in FACT Ammonium Sulphate?","Could you provide information on the nutrient composition of FACT Ammonium Sulphate?","What are the specific nutrients contained in FACT Ammonium Sulphate?"],
+	"responses":["FACT Ammonium Sulphate contains 20.6% Nitrogen in ammoniacal form and 24% Sulphur."]
+},
+{
+	"tag":"question 47",
+	"patterns":["What is the significance of organic manure marketed by FACT under the brand name "FACT ORGANIC"?","What are the key benefits or advantages of using organic manure sold by FACT under the brand name "FACT ORGANIC"?","How does the organic manure offered by FACT under the brand name "FACT ORGANIC" contribute to sustainable agriculture?","In what ways does the organic manure marketed by FACT as "FACT ORGANIC" make a positive impact on soil health and crop productivity?"],
+	"responses":["The organic manure marketed as "FACT ORGANIC" improves soil characteristics, supplies organic carbon, NPK, and micro-nutrients to crops."]
+},
+{
+	"tag":"question 48",
+	"patterns":["What benefits does FACT Organic Plus provide to soil and crop production?","How does FACT Organic Plus contribute to improving soil and crop production?","In what ways does FACT Organic Plus benefit soil and enhance crop production?","What advantages does FACT Organic Plus offer in terms of soil health and crop productivity?"],
+	"responses":["FACT Organic Plus serves as a plant and animal-based organic manure, increasing soil organic matter content, moisture holding capacity, and improving crop production efficiency."]
+},
+{
+	"tag":"question 49",
+	"patterns":["What are Bio-fertilisers, and under what trade name does FACT market them?","Can you explain the concept of Bio-fertilisers and identify the trade name under which FACT sells them?","What is the definition of Bio-fertilisers, and what is the specific trade name used by FACT for marketing them?","Could you provide information on Bio-fertilisers and the trade name adopted by FACT for their commercialization?"],
+	"responses":["Bio-fertilisers are fertilisers containing microorganisms that increase nutrient availability to crops. FACT markets them under the trade name "BIOFACT."]
+},
+{
+	"tag":"question 50",
+	"patterns":["How can the efficacy of BIOFACT be enhanced?","What measures can be taken to increase the effectiveness of BIOFACT?","In what ways can the efficiency of BIOFACT be improved?","What strategies or methods can be employed to enhance the efficacy of BIOFACT?"],
+	"responses":["The efficacy of BIOFACT can be substantially enhanced by applying it along with FACT ORGANIC."]
+},
+{
+	"tag":"question 51",
+	"patterns":["Where can one find more information about FACT's products and offerings?","Where can I access detailed information regarding the products and offerings provided by FACT?","What are the available sources to obtain comprehensive information about FACT's products and offerings?","Can you suggest reliable resources or platforms that provide in-depth information about FACT's products and offerings?"],
+	"responses":["For more information about FACT's products and offerings, one can visit their official website."]
+},
+{
+	"tag":"question 52",
+	"patterns":["What is BIOFACT-AZOSPIRILLUM, and what is its role?","What is the purpose of BIOFACT-AZOSPIRILLUM and what role does it play?","Could you explain what BIOFACT-AZOSPIRILLUM is and how it functions?","What is the definition of BIOFACT-AZOSPIRILLUM and what are its responsibilities or contributions?"],
+	"responses":["BIOFACT-AZOSPIRILLUM is a bio-fertilizer containing microorganisms that enhance nitrogen availability for all crops. They fix atmospheric nitrogen in the soil, providing 20 to 25 kg per hectare over two years. Sustained application of Azospirillum can reduce nitrogen application by 20 to 25%."]
+},
+{
+	"tag":"question 53",
+	"patterns":["Which crops are specifically suited for BIOFACT-RHIZOBIUM?","Which agricultural crops are particularly suitable for the application of BIOFACT-RHIZOBIUM?","Amongst various crops, which specific plants are best suited for utilizing BIOFACT-RHIZOBIUM?","Which types of crops benefit the most from the use of BIOFACT-RHIZOBIUM as a biofertilizer?"],
+	"responses":["BIOFACT-RHIZOBIUM is specifically suited for leguminous crops. These microorganisms form a symbiotic relationship with root nodules of pulse crops like green gram and red gram. They fix atmospheric nitrogen and make it readily available to the host plants."]
+},
+{
+	"tag":"question 54",
+	"patterns":["How do BIOFACT-PHOSPHATE SOLUBILIZING BACTERIA work?","What is the mechanism by which BIOFACT-PHOSPHATE SOLUBILIZING BACTERIA function?","Can you explain the working process of BIOFACT-PHOSPHATE SOLUBILIZING BACTERIA?","How do BIOFACT-PHOSPHATE SOLUBILIZING BACTERIA convert unavailable forms of phosphorus into an accessible form for plants?"],
+	"responses":["BIOFACT-PHOSPHATE SOLUBILIZING BACTERIA are microorganisms capable of converting the unavailable form of phosphorus in the soil into an available form. This enables plants to absorb the nutrient more easily."]
+},
+{
+	"tag":"question 55",
+	"patterns":["What is the nutrient contribution of BIOFACT-AZOSPIRILLUM over two years?","How much nutrient does BIOFACT-AZOSPIRILLUM contribute over a span of two years?","What is the total nutrient contribution of BIOFACT-AZOSPIRILLUM over a two-year period?","Over the course of two years, what is the amount of nutrients supplied by BIOFACT-AZOSPIRILLUM?"],
+	"responses":["BIOFACT-AZOSPIRILLUM provides a nitrogen contribution of 20 to 25 kg per hectare over a period of two years."]
+},
+{
+	"tag":"question 56",
+	"patterns":["Which crops benefit the most from BIOFACT-RHIZOBIUM?","Which specific crops experience the greatest benefits from the application of BIOFACT-RHIZOBIUM?","Among various crops, which ones receive the maximum advantages from the usage of BIOFACT-RHIZOBIUM?","Which types of crops show the highest level of improvement when BIOFACT-RHIZOBIUM is utilized?"],
+	"responses":["BIOFACT-RHIZOBIUM is particularly beneficial for leguminous crops such as green gram and red gram."]
+},
+{
+	"tag":"question 57",
+	"patterns":["How do BIOFACT-PHOSPHATE SOLUBILIZING BACTERIA improve nutrient availability?","In what manner do BIOFACT-PHOSPHATE SOLUBILIZING BACTERIA enhance the availability of nutrients?","What is the mechanism through which BIOFACT-PHOSPHATE SOLUBILIZING BACTERIA improve the accessibility of nutrients?","How do BIOFACT-PHOSPHATE SOLUBILIZING BACTERIA contribute to the increased availability of nutrients in the soil?"],
+	"responses":["BIOFACT-PHOSPHATE SOLUBILIZING BACTERIA convert the unavailable form of phosphorus in the soil into an available form, making it easier for plants to absorb the nutrient."]
+},
+{
+	"tag":"question 58",
+	"patterns":["How does sustained application of Azospirillum affect nitrogen application?","What impact does continuous use of Azospirillum have on nitrogen application?","In what way does the persistent use of Azospirillum influence nitrogen application?","How does the long-term application of Azospirillum bacteria affect the need for nitrogen application?"],
+	"responses":["Sustained application of Azospirillum can reduce nitrogen application by approximately 20 to 25%."]
+},
+{
+	"tag":"question 59",
+	"patterns":["Which crops can benefit from BIOFACT-PHOSPHATE SOLUBILIZING BACTERIA?","Which types of crops can derive benefits from the application of BIOFACT-PHOSPHATE SOLUBILIZING BACTERIA?","In the case of BIOFACT-PHOSPHATE SOLUBILIZING BACTERIA, which crops can experience positive effects?","Which specific agricultural crops can be advantageous recipients of BIOFACT-PHOSPHATE SOLUBILIZING BACTERIA?"],
+	"responses":["BIOFACT-PHOSPHATE SOLUBILIZING BACTERIA can benefit a wide range of crops by improving the availability of phosphorus in the soil."]
+},
+{
+	"tag":"question 60",
+	"patterns":["What is the primary function of BIOFACT-AZOSPIRILLUM?","What is the main purpose of BIOFACT-AZOSPIRILLUM?","What is the primary role of BIOFACT-AZOSPIRILLUM?","Can you explain the main function of BIOFACT-AZOSPIRILLUM?"],
+	"responses":["The primary function of BIOFACT-AZOSPIRILLUM is to enhance nitrogen availability for all crops by fixing atmospheric nitrogen in the soil."]
+},
+{
+	"tag":"question 61",
+	"patterns":["What is the specific role of BIOFACT-RHIZOBIUM in leguminous crops?","How does BIOFACT-RHIZOBIUM contribute to the growth and development of leguminous crops?","What is the particular function or purpose of BIOFACT-RHIZOBIUM in relation to leguminous crops?","In what specific way does BIOFACT-RHIZOBIUM benefit leguminous crops and their overall nutrient uptake?"],
+	"responses":["BIOFACT-RHIZOBIUM forms a symbiotic relationship within the root nodules of leguminous crops, fixing atmospheric nitrogen and making it readily available to the host plants."]
+},
+{
+	"tag":"question 62",
+	"patterns":["How do BIOFACT-PHOSPHATE SOLUBILIZING BACTERIA improve nutrient uptake?","In what way do BIOFACT-PHOSPHATE SOLUBILIZING BACTERIA enhance nutrient absorption?","How do BIOFACT-PHOSPHATE SOLUBILIZING BACTERIA contribute to improving the uptake of nutrients?","What is the mechanism by which BIOFACT-PHOSPHATE SOLUBILIZING BACTERIA facilitate better nutrient assimilation in plants?"],
+	"responses":["BIOFACT-PHOSPHATE SOLUBILIZING BACTERIA convert the unavailable form of phosphorus into an available form, making it easier for plants to absorb the nutrient and improve nutrient uptake."]
+},
+{
+	"tag":"question 63",
+	"patterns":["What is the recommended application rate for BIOFACT-AZOSPIRILLUM?","What is the suggested dosage or application rate for BIOFACT-AZOSPIRILLUM?","How much BIOFACT-AZOSPIRILLUM should be applied per unit area?","What is the recommended quantity of BIOFACT-AZOSPIRILLUM to be used for optimal results?"],
+	"responses":["The recommended application rate for BIOFACT-AZOSPIRILLUM can vary based on crop type and soil conditions. It is advisable to follow the manufacturer's guidelines for appropriate application."]
+},
+{
+	"tag":"question 64",
+	"patterns":["Which microorganisms are present in BIOFACT-RHIZOBIUM?","What are the microorganisms that can be found in BIOFACT-RHIZOBIUM?","Which specific types of microorganisms are present in BIOFACT-RHIZOBIUM?","Can you list the microbial species that are included in BIOFACT-RHIZOBIUM?"],
+	"responses":["BIOFACT-RHIZOBIUM contains specific strains of microorganisms that are beneficial for leguminous crops, aiding in nitrogen fixation."]
+},
+{
+	"tag":"question 65",
+	"patterns":["What are the benefits of using BIOFACT-PHOSPHATE SOLUBILIZING BACTERIA in agriculture?","What advantages or positive effects can be gained from the utilization of BIOFACT-PHOSPHATE SOLUBILIZING BACTERIA in agriculture?","How does the application of BIOFACT-PHOSPHATE SOLUBILIZING BACTERIA benefit agricultural practices?","What are the various benefits that can be achieved by incorporating BIOFACT-PHOSPHATE SOLUBILIZING BACTERIA into agricultural processes?"],
+	"responses":["Using BIOFACT-PHOSPHATE SOLUBILIZING BACTERIA can enhance phosphorus availability in the soil, leading to improved nutrient uptake by plants and increased crop productivity."]
+},
+{
+	"tag":"question 66",
+	"patterns":["How can BIOFACT-AZOSPIRILLUM contribute to sustainable agriculture?","In what ways does BIOFACT-AZOSPIRILLUM contribute to sustainable agriculture?","How does the application of BIOFACT-AZOSPIRILLUM support sustainable agricultural practices?","What are the contributions of BIOFACT-AZOSPIRILLUM towards promoting sustainability in agriculture?"],
+	"responses":["BIOFACT-AZOSPIRILLUM promotes sustainable agriculture by reducing the need for synthetic nitrogen fertilizers. Its nitrogen-fixing abilities provide a natural and eco-friendly source of nitrogen for crops."]
+},
+{
+	"tag":"question 67",
+	"patterns":["Which type of bacteria is present in BIOFACT-PHOSPHATE SOLUBILIZING BACTERIA?","What is the specific type of bacteria found in BIOFACT-PHOSPHATE SOLUBILIZING BACTERIA?","Can you identify the particular bacteria species present in BIOFACT-PHOSPHATE SOLUBILIZING BACTERIA?","Which strain or genus of bacteria is associated with BIOFACT-PHOSPHATE SOLUBILIZING BACTERIA?"],
+	"responses":["BIOFACT-PHOSPHATE SOLUBILIZING BACTERIA contains specific strains of bacteria that have the capability to convert unavailable phosphorus into an available form."]
+},
+{
+	"tag":"question 68",
+	"patterns":["Can BIOFACT-RHIZOBIUM be used for non-leguminous crops?","Is BIOFACT-RHIZOBIUM suitable for application on non-leguminous crops?","Can BIOFACT-RHIZOBIUM be utilized for enhancing the growth of crops other than legumes?","Is it feasible to use BIOFACT-RHIZOBIUM on crops that do not belong to the legume family?"],
+	"responses":["BIOFACT-RHIZOBIUM is specifically suited for leguminous crops and may not provide the same benefits for non-leguminous crops."]
+},
+{
+	"tag":"question 69",
+	"patterns":["How can BIOFACT-PHOSPHATE SOLUBILIZING BACTERIA improve phosphorus availability in the soil?","In what way do BIOFACT-PHOSPHATE SOLUBILIZING BACTERIA enhance the availability of phosphorus in the soil?","How do BIOFACT-PHOSPHATE SOLUBILIZING BACTERIA contribute to the increased accessibility of phosphorus in the soil?","What is the mechanism by which BIOFACT-PHOSPHATE SOLUBILIZING BACTERIA improve the availability of phosphorus in the soil?"],
+	"responses":["BIOFACT-PHOSPHATE SOLUBILIZING BACTERIA convert insoluble forms of phosphorus into soluble forms, making it easier for plants to take up and utilize the nutrient."]
+},
+{
+	"tag":"question 70",
+	"patterns":["Is the application of BIOFACT-AZOSPIRILLUM limited to a specific soil type?","Are there any limitations on the use of BIOFACT-AZOSPIRILLUM in terms of soil types?","Can BIOFACT-AZOSPIRILLUM be applied to any soil type or are there specific restrictions?","Is the application of BIOFACT-AZOSPIRILLUM restricted to certain types of soil, or can it be used on any soil?"],
+	"responses":["BIOFACT-AZOSPIRILLUM can be applied in a wide range of soil types, but it is always recommended to consider soil conditions and follow the manufacturer's guidelines for optimal application."]
+},
+{
+	"tag":"question 71",
+	"patterns":["How do BIOFACT-PHOSPHATE SOLUBILIZING BACTERIA contribute to sustainable agriculture?","In what ways do BIOFACT-PHOSPHATE SOLUBILIZING BACTERIA contribute to the sustainability of agriculture?","What is the role of BIOFACT-PHOSPHATE SOLUBILIZING BACTERIA in promoting sustainable agriculture?","How do BIOFACT-PHOSPHATE SOLUBILIZING BACTERIA support and enhance the principles of sustainable agriculture?"],
+	"responses":["BIOFACT-PHOSPHATE SOLUBILIZING BACTERIA help reduce the dependence on synthetic phosphorus fertilizers by converting insoluble phosphorus in the soil into an available form, promoting sustainable nutrient management practices in agriculture."]
+}  
     ]
 }
