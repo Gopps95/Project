@@ -20,7 +20,7 @@ intents = json.loads(open(r'C:\Users\Asus\OneDrive\Desktop\CollegeProject\Projec
 words = []
 classes = []
 documents = []
-ignore_letters = ['?', '!', '.', ',', '\n', '\t']
+ignore_letters = ['?', '!', '.', ',', '\n', '\t','-']
 
 for intent in intents['intents']:
     for pattern in intent['patterns']:
