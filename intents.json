@@ -17,7 +17,7 @@
       },
       {
         "tag": "question 1",
-        "patterns": ["Who is the major shareholder of FACT?", "Who holds the majority shares in The Fertilisers and Chemicals Travancore Limited (FACT)?", "Which entity or individual owns the largest stake in FACT?", "Who is the primary shareholder of The Fertilisers and Chemicals Travancore Limited?"],
+        "patterns": ["Who is the major shareholder of FACT?", "Who holds the majority shares in The Fertilisers and Chemicals Travancore Limited (FACT)?", "Which entity or individual owns the largest stake in FACT?", "Who is the primary shareholder of The Fertilisers and Chemicals Travancore Limited?","Shareholder of FACT"],
         "responses": ["The Government of India is the major shareholder of FACT since 1962."]
       },
       {
